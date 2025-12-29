@@ -37,6 +37,12 @@ covid_xray_detection/
 └── sample_images/        # Sample X-rays for testing
 ```
 
+## 🖼️ Application Preview
+
+![COVID-19 Detection System Interface](https://raw.githubusercontent.com/Touseeq20/covid-xray-detection/main/output_results/outputsample.png)
+
+*Above: Screenshot of the Streamlit web interface showing COVID-19/Pneumonia detection results.*
+
 ## 🛠️ Installation & Usage
 
 ### Prerequisites
